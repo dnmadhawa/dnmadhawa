@@ -1,7 +1,9 @@
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nilupul</h1>
+<h2 align="center">Nilupul Madhawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
+ <h4 align="center">Undergraduate</h4>
+
+ 
 
 
 ## 🚀 Languages and Tools:
@@ -24,7 +26,6 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="express" width="40" height="40"/> </a>
 </p>
 
