@@ -15,4 +15,4 @@
 
 <p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nilupulmadhawa&show_icons=true&locale=en&theme=dark" alt="nilupulmadhawa" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilupulmadhawatheme=dark" alt="nilupulmadhawa" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilupulmadhawa&theme=dark" alt="nilupulmadhawa" /></p>
